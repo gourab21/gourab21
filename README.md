@@ -17,14 +17,11 @@ Post-Graduation Student
     </a>
 </div>
 
-* Web and Mobile application Development 
-* DevOps Engineering, Process Automation, Version control
-* Programming Languages: C++, C, Python, JavaScript, Java.
-* Low level and High level system design
-* Cloud computation
-* Full stack software engineering
-* Simulation and Modelling
-
+* Web and Mobile application Development.
+* Programming Languages: C++, Python, JavaScript.
+* Low level and High level system design.
+* Cloud computation.
+* Automation.
 
 ## Tools and Technologies
 
