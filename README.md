@@ -10,9 +10,11 @@ Post-Graduation Student
 <div><a href="https://topmate.io/sudip_mondal_official"><img height="40px" src="./call-button.png"></img></a></div>
 -->
 
+
+
 ## Skills
 <div align=right>
-<img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourab21&theme=highcontrast&langs_count=10&layout=compact" />
+<img width=330 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourab21&theme=highcontrast&langs_count=10&layout=compact" />
 </div>
 
 * Web and Mobile application Development.
@@ -20,6 +22,8 @@ Post-Graduation Student
 * Low level and High level system design.
 * Cloud computation.
 * Automation.
+* Machine Learning
+* Arduino and IoT
 
 ## Tools and Technologies
 
