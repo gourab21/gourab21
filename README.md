@@ -18,7 +18,7 @@ Post-Graduation Student
 </div>
 
 * Web and Mobile application Development.
-* Programming Languages: C++, Python, JavaScript.
+* Programming Languages: Python, C++, SQL, JavaScript.
 * Low level and High level system design.
 * Cloud computation.
 * Automation.
