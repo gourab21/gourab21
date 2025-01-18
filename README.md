@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/gourab21/gourab21/blob/main/Images/ww.jpg "LinkedIN")
 # Gourab Das
-Post-Graduation Student                                                    
+Post-Graduation Student.                                                   
 
 [E-mail](mailto:gourabdas2128@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gourab21/) | [Twitter](https://x.com/gourabdas21) | [GitHub](https://github.com/gourab21)
 
