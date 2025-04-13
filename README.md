@@ -2,7 +2,7 @@
 # Gourab Das
 Post-Graduation Student.                                                   
 
-[E-mail](mailto:gourabdas2128@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gourab21/) | [Twitter](https://x.com/gourabdas21) | [GitHub](https://github.com/gourab21)
+[E-mail](mailto:gourabdas2128@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gourab21/) | [Twitter](https://x.com/gourabdas21) | [GitHub](https://github.com/gourab21) | [Website](https://gourabdas.com)
 
 <!--
 <div><a href="https://www.sudipmondal.co.in"><img height="40px" src="./portfolio-button.png"></img></a></div>
