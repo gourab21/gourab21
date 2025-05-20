@@ -14,7 +14,7 @@ Post-Graduation Student.
 
 ## Skills
 <div align=right>
-<img width=330 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptog81&theme=highcontrast&langs_count=10&layout=compact" />
+<img width=330 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourab21&theme=highcontrast&langs_count=10&layout=compact" />
 </div>
 
 * Web and Mobile application Development.
