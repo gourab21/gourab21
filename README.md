@@ -1,4 +1,4 @@
-![Alt text](https://github.com/gourab21/gourab21/blob/main/Images/ww.jpg "LinkedIN")
+![Alt text](https://github.com/gourab21/gourab21/blob/main/Images/linkedin.png "LinkedIN")
 # Gourab Das
 PhD Scholar, Dept. of CSE, Indian Institute of Information Technology Dharwad
 
@@ -149,11 +149,3 @@ IEEE IoT Journal • IEEE Access • IEEE Transactions on Artificial Intelligenc
             src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
             alt="typescript" width="40" height="40" /> </a>
 </p>
-
-## Badges
-
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=gourab21&theme=onedark&column=11" alt="zumrudu-anka" />
-    </a>
-</div>
