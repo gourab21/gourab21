@@ -1,4 +1,4 @@
-![Alt text](https://github.com/gourab21/gourab21/blob/main/Images/ww.jpg "LinkedIN")
+![Alt text](https://github.com/gourab21/gourab21/blob/main/Images/linkedin.png "LinkedIN")
 # Gourab Das
 Post-Graduation Student.                                                   
 
